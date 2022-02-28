@@ -1,0 +1,19 @@
+segment_sources:
+  P47DFC9FC:
+    type: origin_type
+    relation: translation
+    language: en
+  P40CBB9B0:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  6d1a304a6d424a3a982ce1b69d204e5f:
+    P47DFC9FC: 36a9091bbbd74d7db3a0721b44d8be93
+    P40CBB9B0: 2a66c56fa039455fae42bb51b7d7b821
+  afcba26d5ba643c8b74632c6afc91eb0:
+    P47DFC9FC: 57e49632e76443918e5cec6b5e5e87a8
+    P40CBB9B0: 60df264cc43243198c6944d680818541
+  c7efa2335bf54b4da3b94b906cb10722:
+    P47DFC9FC: b15de531ff3b43448a50a1e44022b894
+    P40CBB9B0: 7a46e92c25c2487e9e714adcf0060e31
